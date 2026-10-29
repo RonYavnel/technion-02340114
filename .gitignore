@@ -1,0 +1,13 @@
+# CLion / CMake build output
+cmake-build-*/
+cmake-build-debug/
+cmake-build-release/
+
+# CLion workspace-specific (keep project config, ignore personal workspace state)
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+
+# OS junk
+.DS_Store
+Thumbs.db
