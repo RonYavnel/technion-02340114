@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main() {
+
+int main(void) {
     // Counting from 3
     for(int i = 3; i > 0; i--) {
         printf("%d\n", i);
@@ -9,5 +10,4 @@ int main() {
     * Well,
     * Are you ready?
     */
-    return 0;
 }
