@@ -54,3 +54,25 @@
 [2026-11-05 09:57:49] Committed and pushed successfully.
 [2026-11-05 09:57:49] === Run finished OK ===
 [2026-11-05 23:04:10] === Run started ===
+[2026-11-05 23:04:10] git add: warning: in the working copy of 'Exercises/Exercise2/CMakeLists.txt', LF will be replaced by CRLF the next time Git touches it
+[2026-11-05 23:04:10] git add: warning: in the working copy of 'Exercises/Exercise2/main.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-05 23:04:10] git commit: [main ef93848] Auto-backup: 2026-11-05 23:04
+[2026-11-05 23:04:10] git commit:  14 files changed, 305 insertions(+)
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/.gitignore
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/Exercise2.iml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/editor.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/misc.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/modules.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/.idea/vcs.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/CMakeLists.txt
+[2026-11-05 23:04:10] git commit:  create mode 100644 Exercises/Exercise2/main.c
+[2026-11-05 23:04:10] git commit:  create mode 100644 Lessons/Lesson1/.idea/Lesson1.iml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Lessons/Lesson1/.idea/editor.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Lessons/Lesson1/.idea/misc.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Lessons/Lesson1/.idea/modules.xml
+[2026-11-05 23:04:10] git commit:  create mode 100644 Lessons/Lesson1/.idea/vcs.xml
+[2026-11-05 23:04:12] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-05 23:04:12] git push:    2fae726..ef93848  main -> main
+[2026-11-05 23:04:12] Committed and pushed successfully.
+[2026-11-05 23:04:12] === Run finished OK ===
+[2026-11-07 00:03:23] === Run started ===
