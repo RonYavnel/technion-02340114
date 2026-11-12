@@ -1,0 +1,20 @@
+{
+  "tests":
+  [
+    {
+      "name": "missing irst match",
+      "input": "050302",
+      "output": "Error Match 1 is Missing\nError Match 2 is Missing\nError Match 3 is Missing\nError Match 4 is Missing\nPoints Gained: 3\nAverage Goals Scored: 3.00\nAverage Goals Conceded: 2.00\nTotal Matches Calculated: 1\n",
+    },
+    {
+      "name": "one match only",
+      "input": "010101",
+      "output": "Points Gained: 1\nAverage Goals Scored: 1.00\nAverage Goals Conceded: 1.00\nTotal Matches Calculated: 1\n"
+    },
+    {
+      "name": "zero results",
+      "input": "010100 020000 030000 040000 050000 060000",
+      "output": "Points Gained: 8\nAverage Goals Scored: 0.17\nAverage Goals Conceded: 0.00\nTotal Matches Calculated: 6\n"
+    }
+  ]
+}
