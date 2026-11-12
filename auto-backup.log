@@ -113,3 +113,24 @@
 [2026-11-11 12:36:06] git push: and the repository exists.
 [2026-11-11 12:36:06] ERROR: git push failed with exit code 128
 [2026-11-12 03:51:23] === Run started ===
+[2026-11-12 03:51:24] git add: warning: in the working copy of 'Homework/HW1/CMakeLists.txt', LF will be replaced by CRLF the next time Git touches it
+[2026-11-12 03:51:24] git add: warning: in the working copy of 'Homework/HW1/question1.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-12 03:51:24] git add: warning: in the working copy of 'Homework/HW1/student_tests.json', LF will be replaced by CRLF the next time Git touches it
+[2026-11-12 03:51:24] git commit: [main 47bd012] Auto-backup: 2026-11-12 03:51
+[2026-11-12 03:51:24] git commit:  12 files changed, 262 insertions(+)
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/.gitignore
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/HW1.iml
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/editor.xml
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/misc.xml
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/modules.xml
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/.idea/vcs.xml
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/CMakeLists.txt
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/question1.c
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/question2.c
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/student_tests.json
+[2026-11-12 03:51:24] git commit:  create mode 100644 Homework/HW1/test1.txt
+[2026-11-12 03:51:27] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-12 03:51:27] git push:    5ff443d..47bd012  main -> main
+[2026-11-12 03:51:27] Committed and pushed successfully.
+[2026-11-12 03:51:27] === Run finished OK ===
+[2026-11-12 22:13:52] === Run started ===
