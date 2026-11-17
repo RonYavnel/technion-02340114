@@ -177,3 +177,20 @@
 [2026-11-16 09:42:37] Committed and pushed successfully.
 [2026-11-16 09:42:37] === Run finished OK ===
 [2026-11-17 01:21:26] === Run started ===
+[2026-11-17 01:21:26] git add: warning: in the working copy of 'Lessons/Lesson3/CMakeLists.txt', LF will be replaced by CRLF the next time Git touches it
+[2026-11-17 01:21:26] git add: warning: in the working copy of 'Lessons/Lesson3/main.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-17 01:21:27] git commit: [main 1d5b731] Auto-backup: 2026-11-17 01:21
+[2026-11-17 01:21:27] git commit:  9 files changed, 153 insertions(+)
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/.gitignore
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/Lesson3.iml
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/editor.xml
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/misc.xml
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/modules.xml
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/.idea/vcs.xml
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/CMakeLists.txt
+[2026-11-17 01:21:27] git commit:  create mode 100644 Lessons/Lesson3/main.c
+[2026-11-17 01:21:30] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-17 01:21:30] git push:    f8c71c1..1d5b731  main -> main
+[2026-11-17 01:21:30] Committed and pushed successfully.
+[2026-11-17 01:21:30] === Run finished OK ===
+[2026-11-18 01:21:01] === Run started ===
