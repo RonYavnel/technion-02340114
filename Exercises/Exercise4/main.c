@@ -1,4 +1,8 @@
 #include <stdio.h>
+#include <stdbool.h>
+#include <math.h>
+
+// question 1:
 
 int midterm_quiz_q1(char arr[], int n);
 
@@ -6,22 +10,51 @@ int midterm_quiz_q1(char arr[], int n) {
     int counter[26] = {0};
     for (int i = 0; i < n; i++) {
         char ch = arr[i];
-        if (counter[ch-97] == 0) {
-            counter[ch-97]++;
+        if (counter[ch - 97] == 0) {
+            counter[ch - 97]++;
         }
     }
-    int count_different_chars = 0;
-    for (int i = 0; i < 25; i++) {
-        count_different_chars += counter[i];
-    }
-    return count_different_chars;
+    int count_different_chars
 }
 
 
+
+
+
+// question 2:
+// int is_prime(long long n);
+// int midterm_quiz_q2(long long n);
+//
+// bool is_prime(long long n) {
+//     bool prime = true;
+//     if (n == 1) {
+//         return false;
+//     }
+//     if (n == 2) {
+//         return true;
+//     }
+//     for (int i = 2; i < n; i++) {
+//         if (n%i == 0) {
+//             prime = false;
+//         }
+//     }
+//     return prime;
+// }
+//
+// int midterm_quiz_q2(long long n) {
+//     int counter = 0;
+//     for (int i = 2; pow(2,i) <= n; i++) {
+//         if (is_prime(pow(2,i) - 1)) {
+//             counter++;
+//         }
+//     }
+//     return counter;
+// }
+
+
 int main(void) {
-    char arr[5] = {'a', 'b', 'a', 'a', 'a'};
-    int count_different_chars = midterm_quiz_q1(arr, 5);
-    printf("%d", count_different_chars);
+    long long n = 100;
+    printf("%d", midterm_quiz_q2(n));
 }
 //     int last_five[5];
 //     int counter = 0;

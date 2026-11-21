@@ -224,3 +224,11 @@
 [2026-11-19 22:12:14] Committed and pushed successfully.
 [2026-11-19 22:12:14] === Run finished OK ===
 [2026-11-20 22:00:04] === Run started ===
+[2026-11-20 22:00:04] git add: warning: in the working copy of 'Exercises/Exercise4/main.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-20 22:00:05] git commit: [main 52491a1] Auto-backup: 2026-11-20 22:00
+[2026-11-20 22:00:05] git commit:  2 files changed, 53 insertions(+), 15 deletions(-)
+[2026-11-20 22:00:08] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-20 22:00:08] git push:    7f2f2eb..52491a1  main -> main
+[2026-11-20 22:00:08] Committed and pushed successfully.
+[2026-11-20 22:00:08] === Run finished OK ===
+[2026-11-22 01:21:07] === Run started ===
