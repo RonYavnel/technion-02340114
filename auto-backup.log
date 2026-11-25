@@ -247,3 +247,20 @@
 [2026-11-23 01:21:23] Committed and pushed successfully.
 [2026-11-23 01:21:23] === Run finished OK ===
 [2026-11-24 17:10:18] === Run started ===
+[2026-11-24 17:10:20] git add: warning: in the working copy of 'Exercises/Exercise4/main.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-24 17:10:20] git add: warning: in the working copy of 'Lessons/Lesson4/main.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-24 17:10:21] git commit: [main 8d9f2a6] Auto-backup: 2026-11-24 17:10
+[2026-11-24 17:10:21] git commit:  10 files changed, 453 insertions(+), 71 deletions(-)
+[2026-11-24 17:10:21] git commit:  create mode 100644 Lessons/Lesson4/.idea/.gitignore
+[2026-11-24 17:10:21] git commit:  create mode 100644 Lessons/Lesson4/.idea/Lesson4.iml
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/.idea/editor.xml
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/.idea/misc.xml
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/.idea/modules.xml
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/.idea/vcs.xml
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/CMakeLists.txt
+[2026-11-24 17:10:23] git commit:  create mode 100644 Lessons/Lesson4/main.c
+[2026-11-24 17:10:39] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-24 17:10:40] git push:    1c0014e..8d9f2a6  main -> main
+[2026-11-24 17:10:40] Committed and pushed successfully.
+[2026-11-24 17:10:40] === Run finished OK ===
+[2026-11-25 12:54:19] === Run started ===
