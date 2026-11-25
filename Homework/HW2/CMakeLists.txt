@@ -3,4 +3,5 @@ project(HW2 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(HW2 question1.c)
+add_executable(HW2 question1.c
+        question2.c)

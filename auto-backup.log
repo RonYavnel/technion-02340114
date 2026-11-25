@@ -264,3 +264,20 @@
 [2026-11-24 17:10:40] Committed and pushed successfully.
 [2026-11-24 17:10:40] === Run finished OK ===
 [2026-11-25 12:54:19] === Run started ===
+[2026-11-25 12:54:19] git add: warning: in the working copy of 'Homework/HW2/CMakeLists.txt', LF will be replaced by CRLF the next time Git touches it
+[2026-11-25 12:54:19] git add: warning: in the working copy of 'Homework/HW2/question1.c', LF will be replaced by CRLF the next time Git touches it
+[2026-11-25 12:54:19] git commit: [main 64ed346] Auto-backup: 2026-11-25 12:54
+[2026-11-25 12:54:19] git commit:  9 files changed, 163 insertions(+)
+[2026-11-25 12:54:19] git commit:  create mode 100644 Homework/HW2/.idea/.gitignore
+[2026-11-25 12:54:19] git commit:  create mode 100644 Homework/HW2/.idea/HW2.iml
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/.idea/editor.xml
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/.idea/misc.xml
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/.idea/modules.xml
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/.idea/vcs.xml
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/CMakeLists.txt
+[2026-11-25 12:54:20] git commit:  create mode 100644 Homework/HW2/question1.c
+[2026-11-25 12:54:24] git push: To github-autobackup:RonYavnel/technion-02340114.git
+[2026-11-25 12:54:24] git push:    8d9f2a6..64ed346  main -> main
+[2026-11-25 12:54:24] Committed and pushed successfully.
+[2026-11-25 12:54:24] === Run finished OK ===
+[2026-11-26 01:21:31] === Run started ===
